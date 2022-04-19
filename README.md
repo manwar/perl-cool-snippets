@@ -10,6 +10,7 @@
 ***
 
 #### [Relative backreferece](/v510/relative-backreference.pl)
+#### [Stacked file test operator](/v510/stacked-file-test-operator.pl)
 
 ***
 ## Perl v5.26
