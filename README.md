@@ -9,7 +9,7 @@
 ## Perl v5.10
 ***
 
-#### [Relative backreferece](/blob/main/v510/relative-backreference.pl)
+#### [Relative backreferece](/v510/relative-backreference.pl)
 
 ***
 ## Perl v5.32
