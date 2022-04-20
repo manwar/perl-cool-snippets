@@ -8,3 +8,4 @@
 
 ## Perl v5.26
 ##### [Hash size](/v526/hash-size.pl)
+##### [/xx modifier](/v526/regex-xx.pl)
