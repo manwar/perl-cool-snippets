@@ -7,7 +7,7 @@ use v5.26;
 
 $_ = -10.50;
 
-# /x modified allows whitespace and comments in regex.
+# /x modifier allows whitespace and comments in regex.
 
 if (/^
      [-+]?
