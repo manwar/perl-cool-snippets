@@ -8,6 +8,7 @@
 ##### [Relative backreferece](/v510/relative-backreference.pl)
 ##### [Stacked file test operator](/v510/stacked-file-test-operator.pl)
 ##### [Part match](/v510/part-match.pl)
+##### [Smart match](/v510/smart-match.pl)
 
 ## Perl v5.12
 ##### [Each array](/v512/each-array.pl)
