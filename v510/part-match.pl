@@ -20,3 +20,11 @@ if (/^Rockstar \S+$/) {
 if (/^Rockstar \K\S+$/) {
     print "Part match => $&\n";     # Perl
 }
+
+# Even better use as shared by @reneeb_perl
+
+$_ = "Hello World";
+
+s/Hello \K\S+/cpan_author/;
+
+print "$_\n";
