@@ -2,6 +2,7 @@
 - [Perl v5.10](#v510)
 - [Perl v5.12](#v512)
 - [Perl v5.14](#v514)
+- [Perl v5.16](#v516)
 - [Perl v5.26](#v526)
 - [Perl v5.32](#v532)
 
@@ -16,6 +17,9 @@
 
 ## Perl v5.14
 ##### [Default modifier](/v514/default-modifier.pl)
+
+## Perl v5.16
+##### [Folding case](/v516/folding-case.pl)
 
 ## Perl v5.26
 ##### [Hash size](/v526/hash-size.pl)
