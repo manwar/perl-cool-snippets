@@ -20,6 +20,7 @@
 
 ## Perl v5.16
 ##### [Folding case](/v516/folding-case.pl)
+##### [Current sub](/v516/current-sub.pl)
 
 ## Perl v5.26
 ##### [Hash size](/v526/hash-size.pl)
