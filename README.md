@@ -1,11 +1,11 @@
 ## Perl Cool Snippets
-- [Perl v5.10](#v510)
-- [Perl v5.12](#v512)
-- [Perl v5.14](#v514)
-- [Perl v5.16](#v516)
-- [Perl v5.18](#v518)
-- [Perl v5.20](#v520)
-- [Perl v5.26](#v526)
+- [Perl v5.10](#perl-v510)
+- [Perl v5.12](#perl-v512)
+- [Perl v5.14](#perl-v514)
+- [Perl v5.16](#perl-v516)
+- [Perl v5.18](#perl-v518)
+- [Perl v5.20](#perl-v520)
+- [Perl v5.26](#perl-v526)
 - [Perl v5.32](#perl-v532)
 
 ## Perl v5.10
