@@ -6,7 +6,7 @@
 - [Perl v5.18](#v518)
 - [Perl v5.20](#v520)
 - [Perl v5.26](#v526)
-- [Perl v5.32](#v532)
+- [Perl v5.32](#perl-v5.32)
 
 ## Perl v5.10
 ##### [Relative backreferece](/v510/relative-backreference.pl)
