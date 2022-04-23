@@ -29,6 +29,7 @@
 
 ## Perl v5.20
 ##### [CLI switch](/v520/cli-switch.sh)
+##### [Hash slice](/v520/hash-slice.pl)
 
 ## Perl v5.26
 ##### [Hash size](/v526/hash-size.pl)
