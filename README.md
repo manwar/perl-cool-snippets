@@ -7,6 +7,7 @@
 - [Perl v5.20](#perl-v520)
 - [Perl v5.26](#perl-v526)
 - [Perl v5.32](#perl-v532)
+- [Miscellaneous](#misc)
 
 ## Perl v5.10
 ##### [Relative backreferece](/v510/relative-backreference.pl)
@@ -38,3 +39,6 @@
 
 ## Perl v5.32
 ##### [Chained comparison](/v532/chained-comparison.pl)
+
+## Miscellaneous
+##### [Subroutine lvalue](/misc/sub-lvalue.pl)
