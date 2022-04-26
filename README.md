@@ -43,3 +43,4 @@
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
 ##### [Tracker](/misc/tracker.pl)
+##### [Timer](/misc/timer.pl)
