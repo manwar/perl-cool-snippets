@@ -5,7 +5,7 @@ use warnings;
 
 $| = 1;
 
-print "Press <enter> key to abort ...\n";
+print "Press <enter> key to abort ... ";
 <STDIN>;
 
 END {
@@ -13,7 +13,6 @@ END {
     my $mm   = $time / 60;
     my $ss   = $time % 60;
     my $hh   = $mm / 60;
-    $mm = $mm % 60;
 
-    print sprintf("The program ran for %02d:%02d:%02d.\n", $hh, $mm, $ss);
+    printf("The program ran for %02d:%02d:%02d.\n", $hh, $mm%60, $ss);
 }
