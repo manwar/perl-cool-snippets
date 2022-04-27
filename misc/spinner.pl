@@ -8,9 +8,9 @@ $| = 1;
 my @state = ("−", "\\", "|", "/");
 
 print "Working ... ";
-foreach(1..25) {
-  print "$state[ $_ % @state ] ";
-  sleep 1;
-  print "\b\b";
-}
+
+print "$state[ $_ % @state ] "
+and sleep 1
+and print "\b\b" for (1..25);
+
 print "done.\n";
