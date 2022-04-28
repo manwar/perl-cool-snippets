@@ -9,7 +9,7 @@ $_ = "Line 1\nLine 2\r\nLine 3\n\rLine 4";
 
 # Traditionally: catch line ending
 
-s/\n|\r\n|\n\r\|/\n/g && print;
+s/\n|\r\n|\n\r/\n/g && print;
 
 print "\n------\n";
 
