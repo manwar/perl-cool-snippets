@@ -40,6 +40,7 @@
 ## Perl v5.26
 ##### [Hash size](/v526/hash-size.pl)
 ##### [/xx modifier](/v526/regex-xx.pl)
+##### [Heredocs](/v526/heredocs.pl)
 
 ## Perl v5.32
 ##### [Chained comparison](/v532/chained-comparison.pl)
