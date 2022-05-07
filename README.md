@@ -6,6 +6,7 @@
 - [Perl v5.18](#perl-v518)
 - [Perl v5.20](#perl-v520)
 - [Perl v5.26](#perl-v526)
+- [Perl v5.28](#perl-v528)
 - [Perl v5.32](#perl-v532)
 - [Miscellaneous](#miscellaneous)
 
@@ -41,6 +42,9 @@
 ##### [Hash size](/v526/hash-size.pl)
 ##### [/xx modifier](/v526/regex-xx.pl)
 ##### [Heredocs](/v526/heredocs.pl)
+
+## Perl v5.28
+##### [State](/v528/state.pl)
 
 ## Perl v5.32
 ##### [Chained comparison](/v532/chained-comparison.pl)
