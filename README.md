@@ -48,6 +48,7 @@
 
 ## Perl v5.32
 ##### [Chained comparison](/v532/chained-comparison.pl)
+##### [ISA](/v532/isa.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
