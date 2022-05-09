@@ -14,7 +14,7 @@ use v5.28;
 # 6 => 0 1 1 0
 
 # In v5.28 bitwise operator (numeric context).
-sub int_bitwise { return $_[0] ^ $_[1]  }
+sub int_bitwise { return $_[0] ^  $_[1] }
 
 # bitwise operator (string context).
 sub str_bitwise { return $_[0] ^. $_[1] }
