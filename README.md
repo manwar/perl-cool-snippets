@@ -45,6 +45,7 @@
 
 ## Perl v5.28
 ##### [State](/v528/state.pl)
+##### [Bitwise](/v528/bitwise.pl)
 
 ## Perl v5.32
 ##### [Chained comparison](/v532/chained-comparison.pl)
