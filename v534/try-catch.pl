@@ -3,7 +3,7 @@
 use strict; use warnings;
 use v5.34;
 
-# Tradition exception handling.
+# Traditional exception handling.
 my $e = eval { 1/0 };
 print "exception: $@\n" if $@;
 
