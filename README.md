@@ -8,6 +8,7 @@
 - [Perl v5.26](#perl-v526)
 - [Perl v5.28](#perl-v528)
 - [Perl v5.32](#perl-v532)
+- [Perl v5.34](#perl-v534)
 - [Miscellaneous](#miscellaneous)
 
 ## Perl v5.10
@@ -50,6 +51,9 @@
 ## Perl v5.32
 ##### [Chained comparison](/v532/chained-comparison.pl)
 ##### [ISA](/v532/isa.pl)
+
+## Perl v5.34
+##### [Try/Catch](/v534/try-catch.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
