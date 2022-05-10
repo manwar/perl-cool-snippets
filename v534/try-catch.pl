@@ -10,7 +10,7 @@ print "exception: $@\n" if $@;
 # Perl v5.34 introduced try/catch block.
 try {
     1/0;
-} catch  {
+} catch {
     my $e = shift;
     print "try/catch exception: $e\n";
 }
