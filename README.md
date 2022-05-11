@@ -54,7 +54,7 @@
 
 ## Perl v5.34
 ##### [Try/Catch](/v534/try-catch.pl)
-##### [Number Syntax](/v534/number-symtax.pl)
+##### [Number Syntax](/v534/number-syntax.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
