@@ -5,6 +5,7 @@
 - [Perl v5.16](#perl-v516)
 - [Perl v5.18](#perl-v518)
 - [Perl v5.20](#perl-v520)
+- [Perl v5.22](#perl-v522)
 - [Perl v5.26](#perl-v526)
 - [Perl v5.28](#perl-v528)
 - [Perl v5.32](#perl-v532)
@@ -38,6 +39,9 @@
 ##### [CLI switch](/v520/cli-switch.sh)
 ##### [Hash slice](/v520/hash-slice.pl)
 ##### [Method signature](/v520/method-signature.pl)
+
+## Perl v5.22
+##### [Double Diamond](/v522/double-diamond.pl)
 
 ## Perl v5.26
 ##### [Hash size](/v526/hash-size.pl)
