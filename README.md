@@ -42,6 +42,7 @@
 
 ## Perl v5.22
 ##### [Double Diamond](/v522/double-diamond.pl)
+##### [Word Boundary](/v522/word-boundary.pl)
 
 ## Perl v5.26
 ##### [Hash size](/v526/hash-size.pl)
