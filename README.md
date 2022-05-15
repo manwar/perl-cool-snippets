@@ -6,6 +6,7 @@
 - [Perl v5.18](#perl-v518)
 - [Perl v5.20](#perl-v520)
 - [Perl v5.22](#perl-v522)
+- [Perl v5.24](#perl-v524)
 - [Perl v5.26](#perl-v526)
 - [Perl v5.28](#perl-v528)
 - [Perl v5.32](#perl-v532)
@@ -43,6 +44,9 @@
 ## Perl v5.22
 ##### [Double Diamond](/v522/double-diamond.pl)
 ##### [Word Boundary](/v522/word-boundary.pl)
+
+## Perl v5.24
+##### [Postfix deref](/v524/postfix-deref.pl)
 
 ## Perl v5.26
 ##### [Hash size](/v526/hash-size.pl)
