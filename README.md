@@ -9,6 +9,7 @@
 - [Perl v5.24](#perl-v524)
 - [Perl v5.26](#perl-v526)
 - [Perl v5.28](#perl-v528)
+- [Perl v5.30](#perl-v530)
 - [Perl v5.32](#perl-v532)
 - [Perl v5.34](#perl-v534)
 - [Miscellaneous](#miscellaneous)
@@ -56,6 +57,9 @@
 ## Perl v5.28
 ##### [State](/v528/state.pl)
 ##### [Bitwise](/v528/bitwise.pl)
+
+## Perl v5.30
+##### [Max match](/v530/max-match.pl)
 
 ## Perl v5.32
 ##### [Chained comparison](/v532/chained-comparison.pl)
