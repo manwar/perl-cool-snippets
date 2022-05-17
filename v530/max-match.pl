@@ -16,9 +16,6 @@ use v5.30;
 use  Test::More;
 
 $_ = 'a' x 65_535;
-ok(/a{1,}/, 'matching upto 65_535');
-
-$_ = 'a' x 65_536;
-!ok(/a{1,}/, 'not matching beyond 65_535');
+ok(/a{65534,}/, 'matching upto 65_535');
 
 done_testing;
