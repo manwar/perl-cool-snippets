@@ -9,6 +9,6 @@ sub do_something { ... }
 do_something();
 
 #
-# You would see something like below:
+# You would see something like below when you try to run:
 #
 # Unimplemented at v512/yada-yada.pl line 7.
