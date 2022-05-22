@@ -54,6 +54,8 @@
 ##### [Hash size](/v526/hash-size.pl)
 ##### [/xx modifier](/v526/regex-xx.pl)
 ##### [Heredocs](/v526/heredocs.pl)
+##### [Capture (array)](/v526/capture_all.pl)
+##### [Capture (hash)](/v526/capture_named.pl)
 
 ## Perl v5.28
 ##### [State](/v528/state.pl)
