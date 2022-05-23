@@ -3,8 +3,6 @@
 use strict; use warnings;
 use v5.10;
 
-my %languages = ('Choice1' => 'Perl', 'Choice2' => 'Raku');
-
 # To delete a hash key.
 sub delete_key {
     my %capital_of = ('England' => 'London', 'France' => 'Paris');
