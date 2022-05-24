@@ -21,6 +21,7 @@
 ##### [Smart match](/v510/smart-match.pl)
 ##### [Line ending](/v510/line-ending.pl)
 ##### [Delete hash](/v510/delete-hash.pl)
+##### [Defined-or](/v510/defined-or.pl)
 
 ## Perl v5.12
 ##### [Each array](/v512/each-array.pl)
