@@ -50,6 +50,7 @@
 ## Perl v5.22
 ##### [Double Diamond](/v522/double-diamond.pl)
 ##### [Word Boundary](/v522/word-boundary.pl)
+##### [Ref aliasing](/v522/ref-aliasing.pl)
 
 ## Perl v5.24
 ##### [Postfix deref](/v524/postfix-deref.pl)
