@@ -28,6 +28,7 @@
 ## Perl v5.12
 ##### [Each array](/v512/each-array.pl)
 ##### [Yada Yada](/v512/yada-yada.pl)
+##### [Delete local](/v512/delete-local.pl)
 
 ## Perl v5.14
 ##### [Default modifier](/v514/default-modifier.pl)
