@@ -62,6 +62,7 @@
 ##### [Heredocs](/v526/heredocs.pl)
 ##### [Capture (array)](/v526/capture_all.pl)
 ##### [Capture (hash)](/v526/capture_named.pl)
+##### [Temp file)](/v526/tempfile.pl)
 
 ## Perl v5.28
 ##### [State](/v528/state.pl)
