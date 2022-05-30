@@ -43,6 +43,7 @@
 
 ## Perl v5.18
 ##### [Loop label](/v518/loop-label.pl)
+##### [Regex sets](/v518/regex-sets.pl)
 
 ## Perl v5.20
 ##### [CLI switch](/v520/cli-switch.sh)
