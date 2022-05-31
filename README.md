@@ -24,6 +24,7 @@
 ##### [Defined-or](/v510/defined-or.pl)
 ##### [Method Resolution Order (dfs)](/v510/mro-dfs.pl)
 ##### [Method Resolution Order (c3)](/v510/mro-c3.pl)
+##### [Inheritance](/v510/inheritance.pl)
 
 ## Perl v5.12
 ##### [Each array](/v512/each-array.pl)
