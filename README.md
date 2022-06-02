@@ -12,6 +12,7 @@
 - [Perl v5.30](#perl-v530)
 - [Perl v5.32](#perl-v532)
 - [Perl v5.34](#perl-v534)
+- [Perl v5.36](#perl-v536)
 - [Miscellaneous](#miscellaneous)
 
 ## Perl v5.10
@@ -82,6 +83,9 @@
 ##### [Try/Catch](/v534/try-catch.pl)
 ##### [Number Syntax](/v534/number-syntax.pl)
 ##### [Lower Bound](/v534/lower-bound.pl)
+
+## Perl v5.36
+##### [Method Signature](/v536/method-signature.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
