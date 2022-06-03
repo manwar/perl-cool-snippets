@@ -87,6 +87,7 @@
 ## Perl v5.36
 ##### [Method Signature](/v536/method-signature.pl)
 ##### [Defer](/v536/defer.pl)
+##### [Try/Catch/Finally](/v536/try-catch-finally.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
