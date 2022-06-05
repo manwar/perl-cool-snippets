@@ -88,6 +88,7 @@
 ##### [Method Signature](/v536/method-signature.pl)
 ##### [Defer](/v536/defer.pl)
 ##### [Try/Catch/Finally](/v536/try-catch-finally.pl)
+##### [Default arguments](/v536/default-arguments.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
