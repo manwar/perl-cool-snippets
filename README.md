@@ -90,6 +90,7 @@
 ##### [Try/Catch/Finally](/v536/try-catch-finally.pl)
 ##### [Default arguments](/v536/default-arguments.pl)
 ##### [Multiple Values](/v536/multiple-values.pl)
+##### [Indexed](/v536/indexed.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
