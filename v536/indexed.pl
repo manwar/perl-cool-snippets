@@ -12,8 +12,8 @@ while (my ($i, $v) = each @list) {
     say "Index $i Value $v";
 }
 
-say "Using Perl v5.36 indexed ...";
 # Perl v5.36 improved it a bit further.
+say "Using Perl v5.36 indexed ...";
 for my ($i, $v) (indexed @list) {
     say "Index $i Value $v";
 }
