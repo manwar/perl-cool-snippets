@@ -91,6 +91,7 @@
 ##### [Default arguments](/v536/default-arguments.pl)
 ##### [Multiple Values](/v536/multiple-values.pl)
 ##### [Indexed](/v536/indexed.pl)
+##### [Regex sets](/v536/regex-sets.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
