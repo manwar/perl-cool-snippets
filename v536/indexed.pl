@@ -6,7 +6,7 @@ use builtin qw(indexed);
 
 my @list = (1, 2, 3);
 
-# Do you remember Perl v5.12, added new feature 'each'?
+# Do you remember Perl v5.12, allowed 'each' to be called on 'array' and 'hash'?
 say "Using Perl v5.12 each ...";
 while (my ($i, $v) = each @list) {
     say "Index $i Value $v";
