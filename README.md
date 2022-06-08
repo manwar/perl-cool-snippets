@@ -92,6 +92,7 @@
 ##### [Multiple Values](/v536/multiple-values.pl)
 ##### [Indexed](/v536/indexed.pl)
 ##### [Regex sets](/v536/regex-sets.pl)
+##### [ISA](/v536/isa.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
