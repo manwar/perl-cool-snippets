@@ -93,6 +93,7 @@
 ##### [Indexed](/v536/indexed.pl)
 ##### [Regex sets](/v536/regex-sets.pl)
 ##### [ISA](/v536/isa.pl)
+##### [Indirect object syntax](/v536/indirect.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
