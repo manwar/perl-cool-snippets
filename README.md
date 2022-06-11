@@ -94,6 +94,7 @@
 ##### [Regex sets](/v536/regex-sets.pl)
 ##### [ISA](/v536/isa.pl)
 ##### [Indirect object syntax](/v536/indirect.pl)
+##### [Boolean](/v536/boolean.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
