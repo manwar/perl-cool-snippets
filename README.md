@@ -95,6 +95,7 @@
 ##### [ISA](/v536/isa.pl)
 ##### [Indirect object syntax](/v536/indirect.pl)
 ##### [Boolean](/v536/boolean.pl)
+##### [ceil/floor](/v536/ceil-floor.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
