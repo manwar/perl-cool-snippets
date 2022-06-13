@@ -96,6 +96,7 @@
 ##### [Indirect object syntax](/v536/indirect.pl)
 ##### [Boolean](/v536/boolean.pl)
 ##### [ceil/floor](/v536/ceil-floor.pl)
+##### [weaken](/v536/weaken.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
