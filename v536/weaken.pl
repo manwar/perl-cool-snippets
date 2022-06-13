@@ -8,7 +8,7 @@ use builtin qw(weaken is_weak);
 # 'unweaken' and 'is_weak'.
 #
 # In earlier Perl, we would use Scalar::Util.
-# builtin::is_weak is same as isweak().
+# except for builtin::is_weak => isweak().
 
 my $c = bless { self => undef }, 'Class';
 $c->{self} = $c;
