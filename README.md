@@ -97,6 +97,7 @@
 ##### [Boolean](/v536/boolean.pl)
 ##### [ceil/floor](/v536/ceil-floor.pl)
 ##### [weaken](/v536/weaken.pl)
+##### [trim](/v536/trim.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
