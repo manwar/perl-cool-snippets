@@ -98,6 +98,7 @@
 ##### [ceil/floor](/v536/ceil-floor.pl)
 ##### [weaken](/v536/weaken.pl)
 ##### [trim](/v536/trim.pl)
+##### [sort](/v536/sort.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
