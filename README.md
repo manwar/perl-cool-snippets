@@ -99,6 +99,7 @@
 ##### [weaken](/v536/weaken.pl)
 ##### [trim](/v536/trim.pl)
 ##### [sort](/v536/sort.pl)
+##### [use version](/v536/use-version.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
