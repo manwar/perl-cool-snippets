@@ -100,6 +100,7 @@
 ##### [trim](/v536/trim.pl)
 ##### [sort](/v536/sort.pl)
 ##### [use version](/v536/use-version.pl)
+##### [reference](/v536/reference.pl)
 
 ## Miscellaneous
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
