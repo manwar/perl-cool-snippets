@@ -103,6 +103,7 @@
 ##### [reference](/v536/reference.pl)
 
 ## Miscellaneous
+##### [dualvar](/misc/dualvar.pl)
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
 ##### [Tracker](/misc/tracker.pl)
 ##### [Timer](/misc/timer.pl)
