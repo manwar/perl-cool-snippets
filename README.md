@@ -101,6 +101,7 @@
 ##### [sort](/v536/sort.pl)
 ##### [use version](/v536/use-version.pl)
 ##### [reference](/v536/reference.pl)
+##### [Non-ascii pattern delimiters](/v536/non-ascii-delim.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
