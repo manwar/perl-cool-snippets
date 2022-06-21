@@ -103,6 +103,7 @@
 ##### [use version](/v536/use-version.pl)
 ##### [reference](/v536/reference.pl)
 ##### [Non-ascii pattern delimiters](/v536/non-ascii-delim.pl)
+##### [undef](/v536/undef.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
