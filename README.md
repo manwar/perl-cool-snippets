@@ -107,6 +107,7 @@
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
+##### [tainted](/misc/tainted.pl)
 ##### [Subroutine lvalue](/misc/sub-lvalue.pl)
 ##### [Tracker](/misc/tracker.pl)
 ##### [Timer](/misc/timer.pl)
