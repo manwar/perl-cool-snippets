@@ -1,0 +1,9 @@
+# We all know the good old -h flag to list all options like:
+
+$ perl -h
+
+# However in Perl v5.36, we got an alias for -h and it is:
+
+$ perl -?
+
+# Nice addition?

@@ -104,6 +104,7 @@
 ##### [reference](/v536/reference.pl)
 ##### [Non-ascii pattern delimiters](/v536/non-ascii-delim.pl)
 ##### [undef](/v536/undef.pl)
+##### [help](/v536/help.txt)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
