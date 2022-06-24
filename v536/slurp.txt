@@ -1,0 +1,9 @@
+# In Perl v5.35 or lower, we could use the following one-liner
+# to dump the content of file.
+
+$ perl -e 'while (<>) { print $_ }' < sample.txt
+
+# In Perl v5.36, a new command line option -g added which enables
+# slurp mode. The above one-liner can now be re-written as below:
+
+$ p536 -ge '$r = <>; print $r' < sample.txt
