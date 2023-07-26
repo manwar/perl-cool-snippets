@@ -110,6 +110,7 @@
 
 ## Perl v5.38
 ##### [Inhertiance](/v538/inheritance.pl)
+##### [Singleton](/v538/singleton.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
