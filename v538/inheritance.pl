@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 
 use v5.38;
-use feature 'class';
-no warnings 'experimental::class';
+use experimental 'class';
+#no warnings 'experimental::class';
 
 class Animal {
     method eat { say "I can eat!" }
