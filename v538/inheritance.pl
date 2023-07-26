@@ -2,7 +2,6 @@
 
 use v5.38;
 use experimental 'class';
-#no warnings 'experimental::class';
 
 class Animal {
     method eat { say "I can eat!" }
