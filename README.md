@@ -13,6 +13,7 @@
 - [Perl v5.32](#perl-v532)
 - [Perl v5.34](#perl-v534)
 - [Perl v5.36](#perl-v536)
+- [Perl v5.38](#perl-v538)
 - [Miscellaneous](#miscellaneous)
 
 ## Perl v5.10
@@ -106,6 +107,9 @@
 ##### [undef](/v536/undef.pl)
 ##### [help](/v536/help.txt)
 ##### [slurp](/v536/slurp.txt)
+
+## Perl v5.38
+##### [Inhertiance](/v538/inheritance.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
