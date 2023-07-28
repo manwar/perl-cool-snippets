@@ -3,19 +3,24 @@
 use v5.38;
 use experimental 'class';
 
-class Animal {
-    field $name;
+class Singleton 0.01 {
     my $instance;
-
-    sub get_instance    { $instance //= Animal->new }
-    method name($xname) { $name = $xname            }
-    method say_my_name  { say $name                 }
+    sub instance($class) { $instance //= $class->new }
 }
 
-my $animal1 = Animal->get_instance;
-$animal1->name("Camel");
-$animal1->say_my_name;
+class SingleObject :isa(Singleton) {
+    field $count :param = 0;
+    field $_count  = $count;
+    method counter { ++$_count }
+}
 
-my $animal2 = Animal->get_instance;
-$animal2->say_my_name;
+my $obj1 = SingleObject->instance;
+say $obj1->counter;
+say $obj1->counter;
 
+my $obj2 = SingleObject->instance;
+say $obj2->counter;
+
+my $obj3 = SingleObject->instance;
+say $obj3->counter;
+say $obj3->counter;
