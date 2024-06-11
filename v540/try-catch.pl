@@ -1,7 +1,6 @@
 #!/usr/bin/env perl
 
-use v5.34;
-use experimental qw(try);
+use v5.40;
 
 try {
     1/0;

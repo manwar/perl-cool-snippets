@@ -14,6 +14,7 @@
 - [Perl v5.34](#perl-v534)
 - [Perl v5.36](#perl-v536)
 - [Perl v5.38](#perl-v538)
+- [Perl v5.40](#perl-v540)
 - [Miscellaneous](#miscellaneous)
 
 ## Perl v5.10
@@ -89,6 +90,7 @@
 ##### [Method Signature](/v536/method-signature.pl)
 ##### [Defer](/v536/defer.pl)
 ##### [Defer return](/v536/defer-return.pl)
+##### [For list](/v536/for-list.pl)
 ##### [Try/Catch/Finally](/v536/try-catch-finally.pl)
 ##### [Default arguments](/v536/default-arguments.pl)
 ##### [Multiple Values](/v536/multiple-values.pl)
@@ -111,6 +113,10 @@
 ## Perl v5.38
 ##### [Inhertiance](/v538/inheritance.pl)
 ##### [Singleton](/v538/singleton.pl)
+
+## Perl v5.40
+##### [For list](/v540/for-list.pl)
+##### [Try/Catch](/v540/try-catch.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
