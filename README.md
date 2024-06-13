@@ -115,6 +115,7 @@
 ##### [Singleton](/v538/singleton.pl)
 
 ## Perl v5.40
+##### [Class reader](/v540/class-reader.pl)
 ##### [For list](/v540/for-list.pl)
 ##### [Try/Catch](/v540/try-catch.pl)
 
