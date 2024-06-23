@@ -119,6 +119,7 @@
 ##### [Class reader](/v540/class-reader.pl)
 ##### [For list](/v540/for-list.pl)
 ##### [Try/Catch](/v540/try-catch.pl)
+##### [XOR](/v540/xor.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
