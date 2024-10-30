@@ -117,6 +117,7 @@
 ## Perl v5.40
 ##### [CLASS](/v540/class.pl)
 ##### [Class reader](/v540/class-reader.pl)
+##### [Inheritance](https://gist.github.com/manwar/f39d46e177c031f9b41d65152551fc8a)
 ##### [For list](/v540/for-list.pl)
 ##### [Try/Catch](/v540/try-catch.pl)
 ##### [XOR](/v540/xor.pl)
