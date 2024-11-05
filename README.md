@@ -118,6 +118,7 @@
 ##### [CLASS](/v540/class.pl)
 ##### [Class reader](/v540/class-reader.pl)
 ##### [Inheritance](https://gist.github.com/manwar/f39d46e177c031f9b41d65152551fc8a)
+##### [Multiple Inheritance](https://gist.github.com/manwar/5b7be261f28da706ffdc21705b57f3a8)
 ##### [For list](/v540/for-list.pl)
 ##### [Try/Catch](/v540/try-catch.pl)
 ##### [XOR](/v540/xor.pl)
