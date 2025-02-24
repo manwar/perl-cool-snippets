@@ -15,6 +15,7 @@
 - [Perl v5.36](#perl-v536)
 - [Perl v5.38](#perl-v538)
 - [Perl v5.40](#perl-v540)
+- [Perl v5.41](#perl-v541)
 - [Miscellaneous](#miscellaneous)
 
 ## Perl v5.10
@@ -122,6 +123,11 @@
 ##### [For list](/v540/for-list.pl)
 ##### [Try/Catch](/v540/try-catch.pl)
 ##### [XOR](/v540/xor.pl)
+
+## Perl v5.41
+##### [Class writer](/v541/class-writer.pl)
+##### [all / any](/v541/all-any.pl)
+##### [Lexical method](/v541/lexical-method.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
