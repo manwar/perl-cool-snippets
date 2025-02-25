@@ -128,6 +128,7 @@
 ##### [Class writer](/v541/class-writer.pl)
 ##### [all / any](/v541/all-any.pl)
 ##### [Lexical method](/v541/lexical-method.pl)
+##### [Anonymous method](/v541/anon-method.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
