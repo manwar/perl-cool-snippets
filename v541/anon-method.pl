@@ -1,5 +1,7 @@
 #!/usr/bin/env perl
 
+# https://metacpan.org/release/HYDAHY/perl-5.41.9/view/pod/perlclass.pod
+
 use v5.41;
 use experimental 'class';
 
