@@ -16,6 +16,7 @@
 - [Perl v5.38](#perl-v538)
 - [Perl v5.40](#perl-v540)
 - [Perl v5.41](#perl-v541)
+- [Perl v5.42](#perl-v542)
 - [Miscellaneous](#miscellaneous)
 
 ## Perl v5.10
@@ -129,6 +130,9 @@
 ##### [all / any](/v541/all-any.pl)
 ##### [Lexical method](/v541/lexical-method.pl)
 ##### [Anonymous method](/v541/anon-method.pl)
+
+## Perl v5.42
+##### [Lexical method](/v542/lexical-method.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
