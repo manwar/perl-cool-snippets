@@ -10,4 +10,4 @@ sub hello(:$name = "Bob") {
 }
 
 say hello();               # Hello Bob!!
-say hello(name => "Joe")   # Hello Joe!!
+say hello(name => "Joe");  # Hello Joe!!
