@@ -17,6 +17,7 @@
 - [Perl v5.40](#perl-v540)
 - [Perl v5.41](#perl-v541)
 - [Perl v5.42](#perl-v542)
+- [Perl v5.43](#perl-v543)
 - [Miscellaneous](#miscellaneous)
 
 ## Perl v5.10
@@ -133,6 +134,9 @@
 
 ## Perl v5.42
 ##### [Lexical method](/v542/lexical-method.pl)
+
+## Perl v5.43
+##### [Named Parameters](v543/named-parameters.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
