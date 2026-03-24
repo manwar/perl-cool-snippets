@@ -138,6 +138,7 @@
 ## Perl v5.43
 ##### [Named Parameters](v543/named-parameters.pl)
 ##### [Multivar Ref alias](v543/multivar-ref-alias.pl)
+##### [Enhanced xx](v543/enhanced-xx.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
