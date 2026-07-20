@@ -18,6 +18,7 @@
 - [Perl v5.41](#perl-v541)
 - [Perl v5.42](#perl-v542)
 - [Perl v5.43](#perl-v543)
+- [Perl v5.44](#perl-v544)
 - [Miscellaneous](#miscellaneous)
 
 ## Perl v5.10
@@ -139,6 +140,9 @@
 ##### [Named Parameters](v543/named-parameters.pl)
 ##### [Multivar Ref alias](v543/multivar-ref-alias.pl)
 ##### [Enhanced xx](v543/enhanced-xx.pl)
+
+## Perl v5.44
+##### [Unicode 17.0](v544/unicode-17.pl)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
