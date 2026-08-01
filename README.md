@@ -143,6 +143,7 @@
 
 ## Perl v5.44
 ##### [Unicode 17.0](v544/unicode-17.pl)
+##### [Upgrade PRNG](v544/prng.md)
 
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
