@@ -19,6 +19,7 @@
 - [Perl v5.42](#perl-v542)
 - [Perl v5.43](#perl-v543)
 - [Perl v5.44](#perl-v544)
+- [Perl v5.45](#perl-v545)
 - [Miscellaneous](#miscellaneous)
 
 ## Perl v5.10
