@@ -145,6 +145,9 @@
 ##### [Unicode 17.0](v544/unicode-17.pl)
 ##### [Upgrade PRNG](v544/prng.md)
 
+## Perl v5.45
+##### [Equality Operators](v545/equality-operators.pl)
+
 ## Miscellaneous
 ##### [dualvar](/misc/dualvar.pl)
 ##### [tainted](/misc/tainted.pl)
